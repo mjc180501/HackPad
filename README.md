@@ -4,18 +4,18 @@
 
 ### Schematic:
 ![Screenshot of KiCad Schematic]
-(https://github.com/mjc180501/HackPad/Images/Schematic.png)
+(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/Schematic.png)
 
 ### PCB:
 ![Screenshot of KiCad PCB]
-([text](https://github.com/mjc180501/HackPad/)Images/PCB.png)
+(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/PCB.png)
 
 ### Case:
 ![Screenshot of Expanded Case]
-([text](https://github.com/mjc180501/HackPad/)Images/ExpandedCase.png)
+(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/ExpandedCase.png)
 
 ![Screenshot of Full Case]
-([text](https://github.com/mjc180501/HackPad/)Images/FullCase.png)
+(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/FullCase.png)
 
 
 ### BOM:
