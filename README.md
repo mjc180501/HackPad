@@ -1,16 +1,20 @@
 ### Screenshot of Hackpad:
-![(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/Full.png)]
+![Screenshot of Full Case](https://github.com/mjc180501/HackPad/raw/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/Full.png)
+
 
 ### Schematic:
-![(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/Schematic.png)]
+![Screenshot of Schematic](https://github.com/mjc180501/HackPad/raw/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/Schematic.png)
+
 
 ### PCB:
-![https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/PCB.png)]
+![Screenshot of PCB](https://github.com/mjc180501/HackPad/raw/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/PCB.png)
 
 ### Case:
-![(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/ExpandedCase.png)]
+![Screenshot of Expanded Case](https://github.com/mjc180501/HackPad/raw/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/ExpandedCase.png)
 
-![(https://github.com/mjc180501/HackPad/tree/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/FullCase.png)]
+
+![Screenshot of Full Case](https://github.com/mjc180501/HackPad/raw/0a0b1549f767d4b2eb1df676ad5bd4f99fd0ef27/Images/FullCase.png)
+
 
 
 ### BOM:
