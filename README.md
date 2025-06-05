@@ -41,7 +41,7 @@ I used Hack Club's design as a baseline but added an additional key and connecte
 
 ### Others:
 
-QMK Firmware 
+KMK Firmware 
 
 Top.stl
 
